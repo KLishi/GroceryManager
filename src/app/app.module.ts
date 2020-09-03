@@ -10,8 +10,8 @@ import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    GroceryComponent
+    GroceryComponent,
+    AppComponent
   ],
   imports: [
     BrowserModule,
@@ -24,6 +24,7 @@ import { HttpClientModule } from '@angular/common/http';
   
     GroceryComponent,
     AppComponent
+    
 ]
 })
 export class AppModule { }

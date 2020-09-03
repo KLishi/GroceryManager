@@ -3,7 +3,9 @@ import { Component } from '@angular/core';
   selector: 'app-grocery',
   templateUrl: './app.grocery.html',
   styleUrls: [
+    
     '../assets/css/bootstrap.min.css'
+  
   ]
 })
 export class GroceryComponent {
