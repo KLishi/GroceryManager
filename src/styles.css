@@ -1,7 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-.header{
-  background-color:#922b21;
-}
+
 
 .strike{
   text-decoration : line-through;
@@ -29,13 +27,23 @@ color:#922b21;
 
 .floatright{
   border:1px solid #922b21;
-  margin:1px;
-  padding:1px;
+ 
+  padding:3px;
 }
+#editpencil{
+  margin-left:50px;
+  margin-right:3px;
+}
+
+
 h2 {
 padding:20px;
 }
 .input-group{
   padding-left:20px;
   width:100%;
+}
+ul{
+
+  background-color:#922b21;
 }
